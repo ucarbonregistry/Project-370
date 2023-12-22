@@ -155,5 +155,67 @@ VINTAGE: 2016
 ___________________________________
 UCR ISSUANCE DATE: 22/12/2023
 
+First UCR Issuance Period: 01/01/2013 to 31/12/2022
+
+Serial Number: 0001-000001-137916-UCR-CoU-IN-370-01012013-31122013
+
+Vintage Year: 2013
+
+CoU's Issued: 137,916
+_____________________
+Serial Number: 0001-137917-264482-UCR-CoU-IN-370-01012014-31122014
+
+Vintage Year: 2014
+
+CoU's Issued: 126,566
+________________________
+Serial Number: 0001-264483-397374-UCR-CoU-IN-370-01012015-31122015
+
+Vintage Year: 2015
+
+CoU's Issued: 132,892
+_________________________
+Serial Number: 0001-397375-555003-UCR-CoU-IN-370-01012016-31122016
+
+Vintage Year: 2016
+
+CoU's Issued: 157,629
+__________________________
+Serial Number: 0001-555004-741126-UCR-CoU-IN-370-01012017-31122017
+
+Vintage Year: 2017
+
+CoU's Issued: 186,123
+__________________________
+Serial Number: 0001-741127-1035568-UCR-CoU-IN-370-01012018-31122018
+
+Vintage Year: 2018
+
+CoU's Issued: 294,442
+_________________________
+Serial Number: 0001-1035569-1412752-UCR-CoU-IN-370-01012019-31122019
+
+Vintage Year: 2019
+
+CoU's Issued: 377,184
+_________________________
+Serial Number: 0001-1412753-1690523-UCR-CoU-IN-370-01012020-31122020
+
+Vintage Year: 2020
+
+CoU's Issued: 277,771
+__________________________
+Serial Number: 0001-1690524-2014915-UCR-CoU-IN-370-01012021-31122021
+
+Vintage Year: 2021
+
+CoU's Issued: 324,392
+______________________
+Serial Number: 0001-2014916-2376993-UCR-CoU-IN-370-01012022-31122022
+
+Vintage Year: 2022
+
+CoU's Issued: 362078
+
 
 

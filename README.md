@@ -55,3 +55,67 @@ Therefore, in order the avoid
 double counting the 70 rolling stocks will contribute only from 29/12/2017 to 31/12/2022 in the
 UCR crediting cycle. 
 __________________________
+
+CDM Prior Issuance:
+
+Monitoring Period: 29 Dec 2007 - 31 Jan 2008 
+
+Issuance request state: Issued
+
+CERs requested up to 31 December 2012: 3269
+
+Serial Range: Block start: IN-5-60659116-1-1-0-1351      Block end: IN-5-60662384-1-1-0-1351
+___________________
+
+
+Monitoring Period: 01 Feb 2008 - 31 Dec 2008 
+
+Issuance request state: Issued
+
+CERs requested up to 31 December 2012: 35295
+
+Serial Range: Block start: IN-5-87481547-1-1-0-1351      Block end: IN-5-87516841-1-1-0-1351
+____________
+
+
+Monitoring Period: 01 Jan 2009 - 31 Dec 2009 
+
+Issuance request state: Issued
+
+CERs requested up to 31 December 2012: 43753
+
+Serial Range: Block start: IN-5-87794120-1-1-0-1351      Block end: IN-5-87837872-1-1-0-1351
+________________________
+Monitoring Period: 01 Jan 2010 - 31 Dec 2010 
+
+Issuance request state: Issued
+
+CERs requested up to 31 December 2012: 47289
+
+Serial Range: Block start: IN-5-145752389-1-1-0-1351      Block end: IN-5-145799677-1-1-0-1351
+______________________
+Monitoring Period: 01 Jan 2011 - 31 Dec 2011 
+
+Issuance request state: Issued
+
+CERs requested up to 31 December 2012: 47597
+
+Serial Range: Block start: IN-5-189167692-1-1-0-1351      Block end: IN-5-189215288-1-1-0-1351
+
+_________________________
+Monitoring Period: 01 Jan 2012 - 31 Dec 2012 
+
+Issuance request state: Issued
+
+CERs requested up to 31 December 2012: 47890
+
+Serial Range: Block start: IN-5-189215289-1-1-0-1351      Block end: IN-5-189263178-1-1-0-1351
+___________________________
+
+Monitoring Period: 01 Jan 2013 - 28 Dec 2017 
+
+Issuance request state: Issued
+
+CERs requested from 01 Jan 2013 until 31 December 2020: 226516
+
+Serial Range: Block start: IN-5-257587275-2-2-0-1351      Block end: IN-5-257813790-2-2-0-1351

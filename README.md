@@ -119,3 +119,41 @@ Issuance request state: Issued
 CERs requested from 01 Jan 2013 until 31 December 2020: 226516
 
 Serial Range: Block start: IN-5-257587275-2-2-0-1351      Block end: IN-5-257813790-2-2-0-1351
+
+_________________
+GOLD STD ISSUANCE:
+
+Deactivated Projects
+
+METHODOLOGY: AMS-III.C. Emission reductions by electric and hybrid vehicles
+
+CREDITING PERIOD: Dec 29, 2007 ― Dec 28, 2017
+____________________________________________
+SERIAL NUMBER: IN-5-257766953-2-2-0-1351 - IN-5-257813790-2-2-0-1351
+
+Issued NUMBER OF CREDITS: 46838
+
+ISSUANCE DATE: Mar 25, 2021
+
+MONITORING PERIOD: Jan 19, 2016 ― Dec 31, 2017
+
+VINTAGE: 2017
+_____________________________
+SERIAL NUMBER: IN-5-257721655-2-2-0-1351 - IN-5-257766952-2-2-0-1351
+
+Issued NUMBER OF CREDITS: 45298
+
+SERIAL NUMBER: IN-5- 257591805-2-2-0-1351 - IN-5-257592473-2-2-0-1351
+
+Issued NUMBER OF CREDITS: 669
+
+ISSUANCE DATE: Mar 25, 2021
+
+MONITORING PERIOD: Jan 19, 2016 ― Dec 31, 2017
+
+VINTAGE: 2016
+___________________________________
+UCR ISSUANCE DATE: 22/12/2023
+
+
+
